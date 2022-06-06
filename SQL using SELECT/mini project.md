@@ -1,6 +1,6 @@
 **Tugas :**
 
-   menyiapkan data transaksi penjualan dengan total revenue >= IDR 100.000  dari tabel tr_penjualan
+   Menyiapkan data transaksi penjualan dengan total revenue >= IDR 100.000  dari tabel tr_penjualan
 
 
 
@@ -11,7 +11,7 @@
 
 **Clue :** 
 
-   perkalian antara kolom qty dan harga untuk memperoleh total revenue setiap kode pelanggan yang dinyatakan ke dalam kolom total, dan
+   Perkalian antara kolom qty dan harga untuk memperoleh total revenue setiap kode pelanggan yang dinyatakan ke dalam kolom total, dan
    menggunakan “ORDER BY total DESC” pada akhir query untuk mengurutkan data.
 
 
