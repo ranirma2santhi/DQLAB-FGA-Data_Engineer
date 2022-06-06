@@ -1,2 +1,2 @@
 # FGA-Data_Engineer
-Catatan belajar program FGA Data Engineer dari DQLab
+Catatan belajar program Data Engineer FGA X DQLab
