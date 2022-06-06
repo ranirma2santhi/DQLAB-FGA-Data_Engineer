@@ -20,10 +20,9 @@
           
   **5. Prefix untuk spesifik tabel  - [ ms_produk.kode_produk]**
   
-      *) biasanya digunakan untuk jika ada lebih dari satu tabel/di INERJOIN
+      *) biasanya digunakan untuk jika ada lebih dari satu tabel
       
-          SELECT ms_produk.kode_produk FROM tb_produk;
-          
+          SELECT ms_produk.kode_produk FROM tb_produk;       
       
           
   **6. Menggunakan Alias - [ AS ]**
@@ -40,7 +39,7 @@
           
   **8. Penggunaan 'WHERE' untuk data kondisi tertentu**
   
-          SELECT * FROM tb_produk WHERE nama_produk = 'Tas Travel Organizer DQLab';
+          SELECT * FROM tb_produk WHERE nama_produk = 'Sedap Malam';
           SELECT * FROM tb_produk WHERE harga > 50000;
           
           // Dengan Opreand
